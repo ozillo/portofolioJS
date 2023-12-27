@@ -6,16 +6,16 @@ export const projects = [
         "https://res.cloudinary.com/dw9b8eqmc/image/upload/v1701634090/PortofolioMarcMateo/macbookDevlink_fahuxv.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/Alejandro-Manzano/Frontend-Final-Project",
-      link: "https://frontend-final-project-ip0mr7t7q.vercel.app/",
+      link: "https://frontend-final-project-ip0mr7t7q.vercel.app/"
     },
     {
       title: "Saüc Floristeria",
       description: "Esta es la descripción de mi segundo proyecto",
       image:
-        "https://images.unsplash.com/photo-1661961111184-11317b40adb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2344&q=80",
+        "https://res.cloudinary.com/dw9b8eqmc/image/upload/v1701634348/PortofolioMarcMateo/macbookSauc_sngifv.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto2",
-      link: "www.proyecto1.com",
+      link: "www.proyecto1.com"
     },
     {
       title: "Tercer proyecto",
